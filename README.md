@@ -35,13 +35,6 @@ Cooperativas → enviam sementes → Armazéns → registram lotes → Distribui
 
 ---
 
-## 🌾 Benefícios  
 
-- Transparência no ciclo de vida das sementes  
-- Redução de desperdícios e perdas por vencimento  
-- Planejamento agrícola mais eficiente  
-- Incentivo à sustentabilidade e boas práticas rurais  
-
----
 
 
